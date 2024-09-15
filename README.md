@@ -10,4 +10,3 @@ with theoritical description, concluding this study which is conducted as part o
 course (PHY612N) taught by Dr. Sunil Pratap Singh at the Department of Physics, IISER Bhopal.
 
 Programming language : Python
-Contact : devashish20@iiserb.ac.in
