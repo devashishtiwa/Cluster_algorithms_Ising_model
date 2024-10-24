@@ -12,13 +12,16 @@ course (PHY612N) taught by Dr. Sunil Pratap Singh at the Department of Physics, 
 Programming language : Python
 
 $Features$
+
 \begin{enumerate}
-\item Implements the Metropolis algorithm for efficient Monte Carlo sampling
+     \item Implements the Metropolis algorithm for efficient Monte Carlo sampling
 \item Utilizes Numba JIT compilation for accelerated performance
 \item Computes energy, magnetization, and specific heat of the system
 \item Allows customization of lattice size, number of Monte Carlo sweeps, temperature range, and external magnetic field strength
 \item Provides visualizations of the computed physical quantities
+
 \end{enumerate}
+
 
 
 
