@@ -14,6 +14,7 @@ Programming language : Python
 $Features$
 
 - Implements the Metropolis algorithm for efficient Monte Carlo sampling
+- Compares the sampling with both the Wolff and SW Algorithm
 - Utilizes Numba JIT compilation for accelerated performance
 - Computes energy, magnetization, and specific heat of the system
 - Allows customization of lattice size, number of Monte Carlo sweeps, temperature range, and external magnetic field strength
