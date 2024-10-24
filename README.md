@@ -13,14 +13,13 @@ Programming language : Python
 
 $Features$
 
-\begin{enumerate}
-     \item Implements the Metropolis algorithm for efficient Monte Carlo sampling
-\item Utilizes Numba JIT compilation for accelerated performance
-\item Computes energy, magnetization, and specific heat of the system
-\item Allows customization of lattice size, number of Monte Carlo sweeps, temperature range, and external magnetic field strength
-\item Provides visualizations of the computed physical quantities
+- Implements the Metropolis algorithm for efficient Monte Carlo sampling
+- Utilizes Numba JIT compilation for accelerated performance
+- Computes energy, magnetization, and specific heat of the system
+- Allows customization of lattice size, number of Monte Carlo sweeps, temperature range, and external magnetic field strength
+- Provides visualizations of the computed physical quantities
 
-\end{enumerate}
+
 
 
 
